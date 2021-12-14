@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Arnav Raina.
-- 👀 I’m interested in ...
+- 👀 I'm in love with Python, HTML, Bootstrap and ReactJS.
 - 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 arnavrneo/arnavrneo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
