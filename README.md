@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arnav Raina.
-- 👀 I'm in love with Python, HTML, Bootstrap and ReactJS.
+- 👀 I'm in love with Python and Web Development.
 - 🌱 I’m currently learning Machine Learning.
 
 
