@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Arnav Raina.
 - 👀 I'm in love with Python and Web Development.
 - 🌱 I’m currently learning Machine Learning.
-
+##
+[![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavrneo&theme=blue-green&hide=stars)](https://github.com/arnavrneo/github-readme-stats)
 
 <!---
 arnavrneo/arnavrneo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
