@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arnav Raina.
+- 👋 Hi, I’m Arnav.
 - 👀 I'm in love with Python and Web Development.
 - 🌱 I’m currently learning Machine Learning.
 ##
