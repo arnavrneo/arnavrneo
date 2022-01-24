@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnav.
 - 👀 I'm in love with Python and Web Development.
-- 🌱 I’m currently learning everything :).
+- 🌱 I’m currently learning everything :)
 ##
 [![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavrneo&theme=blue-green&hide=stars)](https://github.com/arnavrneo/github-readme-stats)
 
