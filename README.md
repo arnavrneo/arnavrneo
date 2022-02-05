@@ -11,7 +11,8 @@ I love making new things and love Open-Source a lot.
 
 
 - 👀 I'm in love with Python and Web Development. <br />
-- 🌱 I’m currently learning everything :)
+- 🌱 and currently learning everything :)
+- ♫ and an avid listener of Linkin Park & TØP ⊬
 
 <br />
 
