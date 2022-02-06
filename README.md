@@ -1,7 +1,7 @@
 <h1>
 
 ```python
-print("👋 Hi! I am Arnav")
+print("Hi! I am Arnav")
 ```
 
 </h1>
@@ -10,7 +10,7 @@ I'm a first year Computer Science student from India. <br />
 I love making new things and love Open-Source a lot.
 
 
-- 👀 I'm in love with Python and Web Development. <br />
+- 👀 I'm in love with Python and Web Development; <br />
 - 🌱 and currently learning everything :)
 - ♫ and an avid listener of Linkin Park & TØP ⊬
 
