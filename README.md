@@ -6,7 +6,7 @@ print("Hi! I am Arnav")
 
 </h1>
 
-I'm a first year Computer Science student from India. <br />
+I'm a second year Computer Science student from India. <br />
 I love making new things and love Open-Source a lot.
 
 
