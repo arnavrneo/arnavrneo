@@ -1,33 +1,40 @@
-<h1>
-
-```python
-print("Hi! I am Arnav")
+```py
+class Me(Soul):
+  __super__.init()
+  
+  def __init__():
+      self.name = name
+      self.
 ```
 
-</h1>
 
-I'm a second year Computer Science student from India. <br />
-I love making new things and love Open-Source a lot.
+### Hi there 👋
 
+My name is Arnav and I'm a computer science student from India. Here's some info about me: <br />
 
-- 👀 I'm in love with Python and Machine Learning; <br />
-- 🌱 and currently learning everything :)
-- ♫ and an avid listener of Linkin Park & TØP ⊬
+<!--
+can also write about "work experience"
+-->
+
+#### 🌱 Interests:  
+- I enjoy working on:
+   - Python programs
+   - Machine & Deep Learning
+   - Data Science 
+- I write technical blogs and articles
+- I'm always ready for sci-fi talks and movies
+- ♫ is my everyday coffee ☕
 
 <br />
 
-## Languages & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | [![LightPredict](https://img.shields.io/badge/GitHub-100000?label=Light-Predict&style=flat&logo=github&logoColor=white)](https://github.com/arnavrneo/LightPredict) [![getipynb](https://img.shields.io/badge/GitHub-100000?label=getipynb&style=flat&logo=github&logoColor=white)](https://github.com/arnavrneo/getipynb) [![CheXNet](https://img.shields.io/badge/GitHub-100000?label=Keras%20CheXNet%20Model&style=flat&logo=github&logoColor=white)](https://github.com/arnavrneo/CheXNet-Model-Pneumonia-classification-using-Keras) |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://javascript.info/) | [![www](https://img.shields.io/static/v1?label=&message=www&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/www)  |
+| [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/) | [![University-auto-login](https://img.shields.io/badge/GitHub-100000?label=University-auto-login&style=flat&logo=github&logoColor=white)](https://github.com/arnavrneo/smvdu-auto-login) |
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
 
@@ -43,7 +50,15 @@ I love making new things and love Open-Source a lot.
 </details>
 
 
+### Find me at
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arnavraina/)](https://www.linkedin.com/in/arnavraina/) | 
+[![Gmail Badge](https://img.shields.io/badge/-arnavraina02-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:arnavraina02@gmail.com)](mailto:arnavraina02@gmail.com) | 
+![Twitter Follow](https://img.shields.io/twitter/follow/stuckindema) | 
+[![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@arnavr)](https://medium.com/@arnavr)
 
+<!--
+can also write a section about "working on"
+-->
 
 <!---
 arnavrneo/arnavrneo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
