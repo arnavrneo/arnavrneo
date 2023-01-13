@@ -13,14 +13,14 @@ class Me(Music):
 
 ### Hi there 👋
 
-My name is Arnav Raina and I'm a computer science undergraduate student from India. Here's some info about me: <br />
+My name is Arnav Raina and I'm a computer science undergraduate from India. Here's some info about me: <br />
 
 <!--
 can also write about "work experience"
 -->
 
 #### ⚡ Work Experience:
-- Microsoft Learn Student Ambassador, [Oct 2022]
+- Microsoft Learn Student Ambassador. [Oct 2022]
 - Data Science and Business Analytics Intern at The Sparks Foundation. [Sep 2022]
 
 
