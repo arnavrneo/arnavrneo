@@ -1,32 +1,42 @@
 ```py
-class Me(Soul):
-  __super__.init()
+class Me(Music):
   
-  def __init__():
-      self.name = name
-      self.
+  def __init__(self):
+      super().__init__()
+      self.name = "Arnav Raina"
+      self.role = "CS undergraduate"
+   
+  def greet(self):
+      print("Thanks for dropping by.")
 ```
 
 
 ### Hi there 👋
 
-My name is Arnav and I'm a computer science student from India. Here's some info about me: <br />
+My name is Arnav Raina and I'm a computer science undergraduate student from India. Here's some info about me: <br />
 
 <!--
 can also write about "work experience"
 -->
+
+#### ⚡ Work Experience:
+- Microsoft Learn Student Ambassador, [Oct 2022]
+- Data Science and Business Analytics Intern at The Sparks Foundation. [Sep 2022]
+
 
 #### 🌱 Interests:  
 - I enjoy working on:
    - Python programs
    - Machine & Deep Learning
    - Data Science 
-- I write technical blogs and articles
-- I'm always ready for sci-fi talks and movies
+- I write technical blogs and articles 
+- I'm always ready for sci-fi talks and movies! 🌌
 - ♫ is my everyday coffee ☕
 
 <br />
 
+
+### My repos
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
@@ -39,15 +49,6 @@ can also write about "work experience"
 
 
 <br />
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-
-  
-[![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavrneo&theme=blue-green&hide=stars&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/arnavrneo/github-readme-stats)
-  
-</details>
 
 
 ### Find me at
