@@ -29,7 +29,6 @@ can also write about "work experience"
    - Python programs
    - Machine & Deep Learning
    - Data Science 
-- I write technical blogs and articles 
 - I'm always ready for sci-fi talks and movies! 🌌
 - ♫ is my everyday coffee ☕
 
