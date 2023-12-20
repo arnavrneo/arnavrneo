@@ -53,9 +53,7 @@ can also write about "work experience"
 ### Find me at
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arnavraina/)](https://www.linkedin.com/in/arnavraina/) | 
 [![Gmail Badge](https://img.shields.io/badge/-arnavraina02-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:arnavraina02@gmail.com)](mailto:arnavraina02@gmail.com) | 
-[![Twitter Follow](https://img.shields.io/twitter/follow/stuckindema)](https://twitter.com/stuckindema) | 
-[![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@arnavr)](https://medium.com/@arnavr)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/stuckindema)](https://twitter.com/stuckindema)
 <!--
 can also write a section about "working on"
 -->
