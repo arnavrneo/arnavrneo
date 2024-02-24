@@ -26,11 +26,9 @@ can also write about "work experience"
 
 #### 🌱 Interests:  
 - I enjoy working on:
-   - Python programs
    - Machine & Deep Learning
-   - Data Science 
-- I'm always ready for sci-fi talks and movies! 🌌
-- ♫ is my everyday coffee ☕
+   - Data Science
+- Music, Movies and sci-fi: what else one needs? :)
 
 <br />
 
