@@ -28,7 +28,7 @@ can also write about "work experience"
 - I enjoy working on:
    - Machine & Deep Learning
    - Data Science
-- Music, Movies and sci-fi: what else one needs? :)
+- Music, Movies and sci-fi: what else does one need? :)
 
 <br />
 
