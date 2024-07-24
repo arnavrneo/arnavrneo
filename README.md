@@ -13,7 +13,7 @@ class Me(Music):
 
 ### Hi there 👋
 
-My name is Arnav Raina and I'm a computer science undergraduate from India. Here's some info about me: <br />
+My name is Arnav Raina and I'm a computer science undergraduate from India. I'm an AWS Certified Data Engineer and Solutions Architect. Here's some info about me: <br />
 
 <!--
 can also write about "work experience"
@@ -25,9 +25,10 @@ can also write about "work experience"
 
 
 #### 🌱 Interests:  
-- I enjoy working on:
-   - Machine & Deep Learning
-   - Data Science
+- I'm proficient in:
+   - Creating robust & scalable end-to-end data engineering pipelines
+   - Development & Operations
+   - Anything related to Cloud (esp. AWS)
 - Music, Movies and sci-fi: what else does one need? :)
 
 <br />
