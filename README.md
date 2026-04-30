@@ -13,7 +13,7 @@ class Me(Music):
 
 ### Hi there 👋
 
-I'm Arnav Raina, working as Technology Engineer @ Cognizant. I'm an AWS Certified Data Engineer and Solutions Architect. Here's some info about me: <br />
+I'm Arnav Raina, working as a Technology Engineer @ Cognizant. I'm an AWS Certified Data Engineer and Solutions Architect. Here's some info about me: <br />
 
 <!--
 can also write about "work experience"
